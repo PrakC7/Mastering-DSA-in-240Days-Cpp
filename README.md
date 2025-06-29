@@ -8,7 +8,7 @@
 
 ---
 
-## 📅 Journey Started On: **June 25, 2025**
+## 📅 Journey Started On: **June 30, 2025**
 
 > “The colour is going to change — streaks on streaks.” 🔥
 
