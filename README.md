@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mastery DSA in C++ – 240 Day Journey</h1>
+<h1 align="center">🚀 Mastering DSA in C++ – 240 Day Journey</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="C++ Badge"/>
