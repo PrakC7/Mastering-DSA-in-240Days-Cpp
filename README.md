@@ -79,7 +79,6 @@ Feel free to connect, collaborate, or track this journey with me:
   <a href="https://auth.geeksforgeeks.org/user/PrakC7"><img src="https://img.shields.io/badge/GFG-PrakC7-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
   <a href="https://www.codechef.com/users/PrakC7"><img src="https://img.shields.io/badge/CodeChef-PrakC7-brown?style=for-the-badge&logo=codechef" /></a>
 </p>
-</p>
 
 ---
 
