@@ -77,6 +77,8 @@ Feel free to connect, collaborate, or track this journey with me:
   <a href="https://leetcode.com/PrakC7"><img src="https://img.shields.io/badge/LeetCode-PrakC7-orange?style=for-the-badge&logo=leetcode" /></a>
   <a href="https://github.com/PrakC7"><img src="https://img.shields.io/badge/GitHub-PrakC7-black?style=for-the-badge&logo=github" /></a>
   <a href="https://auth.geeksforgeeks.org/user/PrakC7"><img src="https://img.shields.io/badge/GFG-PrakC7-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
+  <a href="https://www.codechef.com/users/PrakC7"><img src="https://img.shields.io/badge/CodeChef-PrakC7-brown?style=for-the-badge&logo=codechef" /></a>
+</p>
 </p>
 
 ---
